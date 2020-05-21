@@ -10,3 +10,6 @@ Use `python trackbot.py` to run
 COMMANDS:
 - All commands begin with `!`
 - The commands included are `!usps TRACKING NUMBER`, `!ups TRACKING NUMBER`, `!fedex TRACKING NUMBER`
+
+<img src="https://i.imgur.com/cAVQKz6.png">
+<img src="https://i.imgur.com/8edhW0i.png">
